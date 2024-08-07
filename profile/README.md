@@ -1,5 +1,3 @@
-## e-think energy research
-
 ![](https://www.e-think.ac.at/wp-content/themes/BLANK_Theme/images/Logo_ethink.png)
 
 https://www.e-think.ac.at/
